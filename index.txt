@@ -1,0 +1,35 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Iceland">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hacked By ALPAGU and BAUDELARA </title>
+  <link rel="icon" type="image/gif" href="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hack.png">
+  </head>
+  <style>
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+
+  background-color: black!;
+
+
+  height: 100%; 
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
+<body  class="bg" bgcolor="#000">
+  <audio loop autoplay="" class="music" style="display: none;"> <source src="https://www.mboxdrive.com/altay-kai.mp3" type="audio/mpeg"></audio>
+  <div align="center"> <p> <img src="http://zonehmirrors.org/defaced/2021/01/27/wothoq.co/i.hizliresim.com/jj1jmD.gif" width="300" height="23" style="margin-left:0px;"> <br><font face="Iceland" size="8" color="#000">Hacked By;</font><br><font face="Iceland" size="8" color="red"><b>ALPAGU AND BAUDELARA</b></font><br> <img src="http://zonehmirrors.org/defaced/2021/01/27/wothoq.co/i.hizliresim.com/jj1jmD.gif" width="300" height="23" style="margin-left:0px;"> <br>  <div align="center"><br>
+  <div align="center"><font face="Iceland" size="5" color="#000">Your weakness is my power.<br>
+  <font face="Iceland" size="5" color="red">HACKED BY ALPAGU AND BAUDELARA</font><br>
+ 
+  <font face="Iceland" size="5" color="red"> [ hello admin ]</font></div></a>
+</body>
+</html>
